@@ -68,3 +68,7 @@ npm run build
 
 Официальная документация Metronic 8 (React): [Metronic documentation](https://preview.keenthemes.com/metronic8/react/docs/quick-start).
 
+## Аккаунт 
+
+- Логин: mobile5
+- Пароль: password
