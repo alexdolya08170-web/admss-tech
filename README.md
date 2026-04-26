@@ -21,7 +21,6 @@
 - **React Query** — кэширование и состояние запросов к API
 - **Bootstrap 5**, **React Bootstrap**, тема **Metronic** (SCSS, готовые компоненты и стили)
 - **Formik** + **Yup** — формы и валидация
-- **Chart.js**, **ApexCharts** — графики
 - **Husky**, **lint-staged**, **ESLint**, **Prettier** — качество кода и pre-commit
 
 ## Требования
