@@ -63,7 +63,7 @@ npm run build
 
 ## UI и тема
 
-Интерфейс опирается на шаблон **Metronic** (ресурсы в `src/_metronic`).
+Интерфейс опирается на шаблон **Metronic** 
 
 Официальная документация Metronic 8 (React): [Metronic documentation](https://preview.keenthemes.com/metronic8/react/docs/quick-start).
 
